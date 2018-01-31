@@ -1,3 +1,11 @@
+# DEPRECATED: ol3-layerswitcher is now [ol-layerswitcher](https://github.com/walkermatt/ol-layerswitcher)
+
+If you require support for the ["old" `openlayers` NPM package](https://www.npmjs.com/package/openlayers) then you can use the code in the master branch of this repository via:
+
+    npm install git+https://github.com/walkermatt/ol3-layerswitcher.git#master
+
+But you probably want to use the [`ol` package](https://www.npmjs.com/package/ol) for new projects in which case you want [ol-layerswitcher](https://github.com/walkermatt/ol-layerswitcher).
+
 # OpenLayers LayerSwitcher
 
 Grouped layer list control for an OpenLayer v3/v4 map.
